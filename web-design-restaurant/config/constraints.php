@@ -2,7 +2,7 @@
  //start session 
  session_start();
 
- define('HOMEURL','http://localhost:81/web-design-course-restaurant-master/');
+ define('HOMEURL','http://localhost:81/web-design-restaurant/');
  define('LOCALHOST','localhost');
  define('DB_USERNAME','root');
  define('DB_PASSWORD','');
